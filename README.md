@@ -9,6 +9,6 @@ O projeto tem como objetivo demonstrar o uso do git...
 - git pull - recupera as atualizações do servidor remoto (github) e atualiza o codigo fonte
 - git merge - junta diferente branches do projeto
 - git branch -l (lista as branches do projeto)
-- git checkout nomeDaBranch - muda de branch (ramificacao do projetoi) 
+- git checkout nomeDaBranch - muda de branch (ramificacao do projeto) 
 - git checkout -b nomeDaBranch - cria uma nova branch
 
